@@ -1,15 +1,17 @@
 #EXTM3U
 
 ############################
-# 📺 CANAIS AO VIVO (FILTRADOS)
+# 📺 CANAIS AO VIVO (COMPLETO)
 ############################
 
-################################################ CANAIS ABERTOS #############################################################
+################################################ CANAIS ABERTOS ################################################
 #EXTINF:-1 tvg-id="globo" tvg-name="Globo HD" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/globo.png" group-title="CANAIS - TV Aberta",Globo HD
 https://ribeirotv.ddns.net/rj-live/rj-live/600279.ts
 #EXTINF:-1 tvg-id="recordtv" tvg-name="Record TV" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/record.png" group-title="CANAIS - TV Aberta",Record TV
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="sbt" tvg-name="SBT" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/sbt.png" group-title="CANAIS - TV Aberta",SBT 
+#EXTINF:-1 tvg-id="recordtvgoias" tvg-name="Record TV Goias" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/record.png" group-title="CANAIS - TV Aberta",Record TV Goias
+http://46.151.196.223:14221
+#EXTINF:-1 tvg-id="sbt" tvg-name="SBT" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/sbt.png" group-title="CANAIS - TV Aberta",SBT
 https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
 #EXTINF:-1 tvg-id="band" tvg-name="Band" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/band.png" group-title="CANAIS - TV Aberta",BAND
 https://ribeirotv.ddns.net/rj-live/rj-live/600017.ts
@@ -54,8 +56,8 @@ https://video04.logicahost.com.br/radiopositivafm/radiopositivafm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 89 A Rádio Rock" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f0fe076eaa7daeb73f2b2d2a8e7d09c.webp" group-title="CANAIS - TV Aberta",TV 89 A Rádio Rock
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(JL11sKiUlYAunR3FkdE_PaaeJpAkE9CzuNdP1yPOf6uxF38GePxC1l3rdZU15ApXncFgmegSLdtXPfOyAmhGfLO2604IyX8L7qWsFStGG1pfH1bySPxYtFMudqolI_tB)/cloud/3/x7wjrui/d/live-1080.m3u8#cell=lcf2-eu-north-1a
 
-################################################ CANAIS NOTICIAS #########################################################
-#EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://ribeirotv.ddns.net/imagens/noticias/bandnews.png" group-title="CANAIS - Notícias",Band News 
+################################################ CANAIS NOTICIAS ################################################
+#EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://ribeirotv.ddns.net/imagens/noticias/bandnews.png" group-title="CANAIS - Notícias",Band News
 http://143.14.178.40:7777/Band_News_HD/index.m3u8
 #EXTINF:-1 tvg-id="bmicnews" tvg-name="BMIC NEWS" tvg-logo="https://ribeirotv.ddns.net/imagens/noticias/bmicnews.png" group-title="CANAIS - Notícias",BM&C News
 https://ribeirotv.ddns.net/ssai-api/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/manifest_abr/569a02fd-dbb9-4f6a-a488-f509866134aa/946cafd578f628eba5b742ec27dd1e98/0.m3u8
@@ -82,7 +84,7 @@ https://ribeirotv.ddns.net/ssai-api/global-adinsertion-api/hls/live/v2/d2e9f2169
 #EXTINF:-1 tvg-id="veja+" tvg-name="VEJA+" tvg-logo="https://veja.abril.com.br/wp-content/uploads/2025/12/veja_o_streaming_da_abril.jpg?quality=70&strip=info&resize=1080,565&crop=1" group-title="CANAIS - Notícias",VEJA+
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15964&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_br&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
-################################################ CANAIS ESPORTES #########################################################
+################################################ CANAIS ESPORTES ################################################
 #EXTINF:-1 tvg-id="bandsports" tvg-name="BAND SPORTS" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/bandsports.png" group-title="CANAIS - Esportes",Band Sports
 http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
 #EXTINF:-1 tvg-id="combate" tvg-name="Combate" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/combate.png" group-title="CANAIS - Esportes",Combate
@@ -101,16 +103,20 @@ https://ribeirotv.ddns.net/rj-live/rj-live/600083.ts
 https://ribeirotv.ddns.net/rj-live/rj-live/600085.ts
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN6" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/espn6.png" group-title="CANAIS - Esportes",ESPN6
 https://ribeirotv.ddns.net/rj-live/rj-live/600087.ts
-#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/premierclubes.png" group-title="CANAIS - Esportes", Premiere Clubes HD
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/premierclubes.png" group-title="CANAIS - Esportes",Premiere Clubes HD
 http://s2.micineovs.com/PREMIERECLUBES/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/sportv.png" group-title="CANAIS - Esportes", Sportv HD
+#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/sportv.png" group-title="CANAIS - Esportes",Sportv HD
 http://s2.micineovs.com/SPTV1/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 tvg-id="" tvg-name="Sportv2 HD" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/sportv2.png" group-title="CANAIS - Esportes", Sportv2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sportv2 HD" tvg-logo="https://ribeirotv.ddns.net/imagens/esportes/sportv2.png" group-title="CANAIS - Esportes",Sportv2 HD
 http://s2.micineovs.com/SPTV2/index.m3u8?token=16FOTt9Ae2m8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS - Esportes",teste
+http://46.151.196.223:14636
 
-################################################ CANAIS FILMES e SERIES #############################################################
+################################################ CANAIS FILMES e SERIES ################################################
 #EXTINF:-1 tvg-id="aie" tvg-name="BR - A&amp;E" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/aie.png" group-title="CANAIS - Filmes e Series",BR - A&amp;E
 http://streamer.sattvacabo.com.br/AE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="amc" tvg-name="BR - AMC Brasil" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/amc.png" group-title="CANAIS - Filmes e Series",BR - AMC Brasil
+http://79.127.243.211:14623
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/axn.png" group-title="CANAIS - Filmes e Series",AXN
 http://streamer.sattvacabo.com.br/AXN_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/cinemax.png" group-title="CANAIS - Filmes e Series",Cinemax
@@ -139,7 +145,7 @@ http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
 http://streamer.sattvacabo.com.br/SONY_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="sonymovies" tvg-name="Sony Movies" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/sonymovies.png" group-title="CANAIS - Filmes e Series",Sony Movies
 http://streamer.sattvacabo.com.br/SONY_MOVIES/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
-#EXTINF:-1 tvg-id="sonyemocoes" tvg-name="Sony Emoções" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a314b7e30030089dbb174ed79458610d.webp" group-title="CANAIS - Filmes e Series",Sony Emoções 
+#EXTINF:-1 tvg-id="sonyemocoes" tvg-name="Sony Emoções" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a314b7e30030089dbb174ed79458610d.webp" group-title="CANAIS - Filmes e Series",Sony Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="sonycinema" tvg-name="Sony Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="CANAIS - Filmes e Series",Sony Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
@@ -231,7 +237,7 @@ https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/play
 http://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Romance Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b0497eae34efe1bcebdfeaa5c5756696.webp" group-title="CANAIS - Filmes (Pluto e Outros)",Romance Channel
 https://ribeirotv.ddns.net/ssai-api/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Ação" tvg-logo="https://ribeirotv.ddns.net/imagens/runtime/acao.png" group-title="CANAIS - Filmes (Pluto e Outros)",Runtime Ação 
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Ação" tvg-logo="https://ribeirotv.ddns.net/imagens/runtime/acao.png" group-title="CANAIS - Filmes (Pluto e Outros)",Runtime Ação
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 #EXTINF:-1 tvg-id="" tvg-name="Runtime Comedia" tvg-logo="https://ribeirotv.ddns.net/imagens/runtime/comedia.png" group-title="CANAIS - Filmes (Pluto e Outros)",Runtime Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
@@ -249,13 +255,13 @@ https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Series Comedia" tvg-logo="https://images.pluto.tv/channels/655e5bc94261ca000810cb17/featuredImage.jpg" group-title="CANAIS - Filmes (Pluto e Outros)",Series Comedia
 http://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="spark luz tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubqjLIxFjMf0yfgus9F9uTqiSegk8BniDeeS8FMK4-e6cEl0b9YrjTRs&s=10" group-title="CANAIS - Filmes (Pluto e Outros)",Spark Luz TV
+#EXTINF:-1 tvg-id="" tvg-name="Spark Luz TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubqjLIxFjMf0yfgus9F9uTqiSegk8BniDeeS8FMK4-e6cEl0b9YrjTRs&s=10" group-title="CANAIS - Filmes (Pluto e Outros)",Spark Luz TV
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-id="" tvg-name="Terror Trash" tvg-logo="https://images.pluto.tv/channels/66aa67493a4ad2000806d91b/featuredImage.jpg" group-title="CANAIS - Filmes (Pluto e Outros)",Terror Trash
 http://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Mix TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="CANAIS - Filmes (Pluto e Outros)",Top Mix TV
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8?ROGERIOTORRES
-#EXTINF:-1 tvg-id="Western Bound" tvg-name="" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F094e5787-1f8f-40c2-8269-580671ab2642%2FWB_Plex_LogoPackage_1500x1000_Light_BPO_-_Megan_Jones.png" group-title="CANAIS - Filmes (Pluto e Outros)",Western Bound
+#EXTINF:-1 tvg-id="Western Bound" tvg-name="Western Bound" tvg-logo="https://images.plex.tv/photo?size=small-60&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F094e5787-1f8f-40c2-8269-580671ab2642%2FWB_Plex_LogoPackage_1500x1000_Light_BPO_-_Megan_Jones.png" group-title="CANAIS - Filmes (Pluto e Outros)",Western Bound
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94f0bdc7bdd992/?X-Plex-Token=fPM_421x5WN9ZYcjMAK1
 #EXTINF:-1 tvg-id="" tvg-name="Xumo TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/600x200.png?type=white_cropped" group-title="CANAIS - Filmes (Pluto e Outros)",Xumo TV
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992307&ads.xumo_streamId=99992307&ads.channelId=99992307&ads.csid=lgchannels_br_xumofreemoviesbrazil_ssai&ads.channelName=xumofreemoviesbrazil_br&ads.xumo_contentName=XumoFreeMoviesBrazil&ads.xumo_contentId=5&ads.xumo_providerName=XumoFreeMoviesBrazil&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
@@ -275,6 +281,40 @@ https://ribeirotv.ddns.net/rj-live/rj-live/600401.ts
 https://ribeirotv.ddns.net/rj-live/rj-live/600402.ts
 #EXTINF:-1 tvg-id="" tvg-name="Chicago P.D." tvg-logo="https://ribeirotv.ddns.net/imagens/series/chicagopd.png" group-title="CANAIS - series24h",Chicago P.D.
 https://ribeirotv.ddns.net/winhls/chicagopd.m3u8
+
+################################################ CANAIS VARIADOS ################################################
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/animalplanet.png" group-title="CANAIS - Variados",Animal Planet
+http://143.14.178.40:7777/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 tvg-id="arte1" tvg-name="Arte 1" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/arte1.png" group-title="CANAIS - Variados",Arte 1
+http://143.14.178.40:7777/Arte_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedy Central" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/comedycentral.png" group-title="CANAIS - Variados",Comedy Central
+https://ribeirotv.ddns.net/winhls/comedycentral.m3u8
+#EXTINF:-1 tvg-id="curta" tvg-name="Curta!" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/curta.png" group-title="CANAIS - Variados",Curta!
+https://ribeirotv.ddns.net/winhls/curta.m3u8
+#EXTINF:-1 tvg-id="discoverychannel" tvg-name="Discovery Channel" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/discoverychannel.png" group-title="CANAIS - Variados",Discovery Channel
+http://streamer.sattvacabo.com.br/DISCOVERY_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/discoveryscience.png" group-title="CANAIS - Variados",Discovery Science
+http://streamer.sattvacabo.com.br/DISCOVERY_SCIENCE_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="discoverytheater" tvg-name="Discovery Theater" tvg-logo="" group-title="CANAIS - Variados",Discovery Theater
+http://streamer.sattvacabo.com.br/DISCOVERY_THEATER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/discoveryturbo.png" group-title="CANAIS - Variados",Discovery Turbo
+http://streamer.sattvacabo.com.br/DISCOVERY_TURBO_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="discoveryworld" tvg-name="Discovery World" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/discoveryworld.png" group-title="CANAIS - Variados",Discovery World
+http://streamer.sattvacabo.com.br/DISCOVERY_WORLD_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="investigacaodiscovery" tvg-name="Investigação Discovery" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/discoveryid.png" group-title="CANAIS - Variados",Investigação Discovery
+http://streamer.sattvacabo.com.br/ID_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="fishtv" tvg-name="Fish TV" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/fishtv.png" group-title="CANAIS - Variados",Fish TV
+https://ribeirotv.ddns.net/winhls/fishtv.m3u8
+#EXTINF:-1 tvg-id="gnt" tvg-name="GNT" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/gnt.png" group-title="CANAIS - Variados",GNT
+http://143.14.178.40:7777/GNT_HD/index.m3u8
+#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/hgtv.png" group-title="CANAIS - Variados",HGTV
+http://streamer.sattvacabo.com.br/HGTV_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="h2" tvg-name="H2" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/history2.png" group-title="CANAIS - Variados",H2
+http://streamer.sattvacabo.com.br/H2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="history" tvg-name="History" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/history.png" group-title="CANAIS - Variados",History
+http://streamer.sattvacabo.com.br/HISTORY_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/multishow.png" group-title="CANAIS - Variados",Multishow
+http://143.14.178.40:7777/Multishow_HD/index.m3u8
 
 ######################################## NOVELAS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="Acorralada" tvg-logo="https://i.ytimg.com/vi/81GrqFV-xn8/sddefault.jpg" group-title="CANAIS - Novelas",Acorralada
@@ -298,7 +338,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/tntnovelas.png" group-title="CANAIS - Novelas",TNT Novelas
 https://ribeirotv.ddns.net/rj-live/rj-live/600257.ts
 
-################################################ CANAIS PREMIUM 4K (MUNDO2.VIP) #############################################################
+################################################ CANAIS PREMIUM 4K (MUNDO2.VIP) ################################################
 #EXTINF:-1 tvg-id="" tvg-name="HBO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO | 4k
 http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111737.ts
 #EXTINF:-1 tvg-id="" tvg-name="HBO2 | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO2 | 4k
