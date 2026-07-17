@@ -1,3 +1,5 @@
+#EXTM3U
+
 ############################
 # 📺 CANAIS AO VIVO (COMPLETO – TODOS OS SERVIDORES)
 ############################
@@ -331,3 +333,15 @@ https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/tntnovelas.png" group-title="CANAIS - Novelas",TNT Novelas
 https://ribeirotv.ddns.net/rj-live/rj-live/600257.ts
+
+################################################ CANAIS PREMIUM 4K (MUNDO2.VIP) ################################################
+#EXTINF:-1 tvg-id="" tvg-name="HBO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO | 4k
+http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111737.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO2 | 4k
+http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111736.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPKwmpcqJITl-unFVBYbDN4D5DzmOMqw2Ag&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO MUNDI | 4k
+http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111738.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO+ | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOofNFwndRgqNhL3HNoOGHEUsqyuFzEOx0w&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO+ | 4k
+http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111739.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5oAPR2hBv5DWFtR-6dpujdOp4dv2vCZzEbw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO POP | 4k
+http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111740.ts
