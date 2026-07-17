@@ -1,5 +1,3 @@
-#EXTM3U
-
 ############################
 # 📺 CANAIS AO VIVO (COMPLETO – TODOS OS SERVIDORES)
 ############################
@@ -38,7 +36,7 @@ https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Fonte TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREXlf-vAb5oAtjhf5wv_5NMf0U-vOCw_tjZ1hD57mA9rkxGNlrvK_jtkSY&s=10" group-title="CANAIS - TV Aberta",Fonte TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/playlist.m3u8
 #EXTINF:-1 tvg-id="sesctv" tvg-name="Sesc TV" tvg-logo="https://pbs.twimg.com/profile_images/1478363447654031366/RTLn1hF3_400x400.jpg" group-title="CANAIS - TV Aberta",Sesc TV
-https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiIwMTk3YTg1Ni02NGEzLTczODMtYWFjNC04MWJkYzkyMWRhOWYiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MDg3NTkyMywiaWF0IjoxNzUwODc1OTIzLCJleHAiOjE3ODI0MTE5MjMsImp0aSI6IjAxOTdhODU2LTY0YTMtNzM4My1hYWM0LTgxYmRjOTIxZGE5ZiIsImlzcyI6IlNwYWxsYSJ9.KKL0LO-BSzObn8Kykfu4Q2Xv-MPWWD14fv8LXuuE4rs
+https://hqf6tcxuhk.singularcdn.net.br/live/0195ede1-c23c-7078-8f2a-25f982a9fc91/playlist.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZGUxLWMyM2MtNzA3OC04ZjJhLTI1Zjk4MmE5ZmM5MS8iLCJ1aWQiOiIwMTk3YTg1Ni02NGEzLTczODMtYWFjNC04MWJkYzkyMWRhOWYiLCJyYXUiOm51bGwsImJleCI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc1MDg3NTkyMywiaWF0IjoxNzUwODc1OTIzLCJleHAiOjE3ODI0MTE5MjMsImp0aSI6IjAxOTdhODU2LTY0YTMtNzM4My1hYWM0LTgxYmRjOTIxZGE5ZiIsImlzcyI6IlNwYWxsYSJ9.KKL0LO-BSzObn8Kykfu4Q2Xv-MPWWD14fv8LXuuE4rs
 #EXTINF:-1 tvg-id="tvhistoria" tvg-name="TV Historia" tvg-logo="https://play-lh.googleusercontent.com/XI2qaMofT3ryNyxbUSTaEAEFYRG06y3lCVOdvyKcq4QDKLbkT2T5OxS9_HSAG8VZguNKfs7-u15c_76zKlROUT0" group-title="CANAIS - TV Aberta",TV Historia
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/playlist.m3u8
 #EXTINF:-1 tvg-id="tvpaieterno" tvg-name="TV Pai Eterno" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/tvpaieterno.png" group-title="CANAIS - TV Aberta",TV Pai Eterno
@@ -51,10 +49,6 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://ngbvqmbygn.zoeweb.tv/alegolive/ngrp:alegolive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcamara" tvg-name="TV Camara" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c4d8bebf3f0b1e71c7b59c9fa0de78e.webp" group-title="CANAIS - TV Aberta",TV Camara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-id="tvpositicafm" tvg-name="TV Positivafm" tvg-logo="https://ribeirotv.ddns.net/imagens/abertos/tvpositivafm.png" group-title="CANAIS - TV Aberta",TV Positivafm
-https://video04.logicahost.com.br/radiopositivafm/radiopositivafm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 89 A Rádio Rock" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f0fe076eaa7daeb73f2b2d2a8e7d09c.webp" group-title="CANAIS - TV Aberta",TV 89 A Rádio Rock
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(JL11sKiUlYAunR3FkdE_PaaeJpAkE9CzuNdP1yPOf6uxF38GePxC1l3rdZU15ApXncFgmegSLdtXPfOyAmhGfLO2604IyX8L7qWsFStGG1pfH1bySPxYtFMudqolI_tB)/cloud/3/x7wjrui/d/live-1080.m3u8#cell=lcf2-eu-north-1a
 
 ################################################ CANAIS NOTICIAS ################################################
 #EXTINF:-1 tvg-id="bandnews" tvg-name="Band News" tvg-logo="https://ribeirotv.ddns.net/imagens/noticias/bandnews.png" group-title="CANAIS - Notícias",Band News
@@ -337,119 +331,3 @@ https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TNT Novelas" tvg-logo="https://ribeirotv.ddns.net/imagens/filmes/tntnovelas.png" group-title="CANAIS - Novelas",TNT Novelas
 https://ribeirotv.ddns.net/rj-live/rj-live/600257.ts
-
-################################################ CANAIS PREMIUM 4K (MUNDO2.VIP) ################################################
-#EXTINF:-1 tvg-id="" tvg-name="HBO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111737.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO2 | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzwbNm8Ukd7ifI04MlOhftL59_6xgRrqOKaA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO2 | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111736.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPKwmpcqJITl-unFVBYbDN4D5DzmOMqw2Ag&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO MUNDI | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111738.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO+ | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxOofNFwndRgqNhL3HNoOGHEUsqyuFzEOx0w&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO+ | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111739.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5oAPR2hBv5DWFtR-6dpujdOp4dv2vCZzEbw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO POP | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111740.ts
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcy9c_PN7fR7Zc5CA5ClkN6n_7Cf2vBX-2uQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HBO SIGNATURE | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111741.ts
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxdvjF6gfMCAv8Ja87zAwPQWI27Jg2vzljUA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",STUDIO UNIVERSAL | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111764.ts
-#EXTINF:-1 tvg-id="" tvg-name="TNT | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMWKIzL4Rs9p84JwniVQXDKTPyCr7-C6P5HQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TNT | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111772.ts
-#EXTINF:-1 tvg-id="" tvg-name="TÑT SÉRIES | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdfTfMQZPPvq00cu7qc-_QV6uqFyEPGtPlQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TÑT SÉRIES | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111773.ts
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPc7agmfTc7NChaktZhWesX40wIMchRq5AZQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",UNIVERSAL CHANNEL | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111778.ts
-#EXTINF:-1 tvg-id="" tvg-name="WARNER | 4k" tvg-logo="https://yt3.ggpht.com/EkEf4N2GOXbtAoctm5VjCHdErqapaQ2ZCtLTrfv9es6rWcRXZSUmcauCPRWOgrpyB1xHeBAmfw=s900-c-k-c0x00ffffff-no-rj" group-title="❎ BRASIL | PREMIUM ❎",WARNER | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111780.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTLPKCymblo_2mWz3EvvEcgfiOM-qQaWHJg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",AMC | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111688.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKs1Ust5w2AcsfDKJuwL3tz-wBMClM9fkO0g&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",AXN | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111690.ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIaMlEJ9IbvR0p1Dx0preN5i4FEntc7ee-g&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",CINEMAX | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111696.ts
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWd1uG0JTS9ZnAQO-NbfBQPWi9twUqLZqdA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",PARAMOUNT CHANNEL | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111754.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQId23juGnAuOq4bEGErQ3zj5Tm6JgEYFKGvg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",SONY | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111759.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPACE | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_htwlVuuX1Ntrq3fJiUBcnzQ2YJYrf1HVzQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",SPACE | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111760.ts
-#EXTINF:-1 tvg-id="" tvg-name="A&E | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiGJMhrpdS0L4wBXBGmOkobRQI_Psx21w3vA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",A&E | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111687.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtXUYnn2T_AODcGAm1tbDRT4szaBbHO7HqQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",STAR CHANNEL | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111718.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0Y5KRVBhCAuKXktcq4HFTls06BLqjE0BPQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TELECINE FUN | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111768.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbZC3SIjNdwUvzfyt46vNofHJcvEtMV-dVOA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TELECINE ACTION | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111766.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlqD2YOQKttJbQ9DtDe1iiloL4Lezxl4wPyw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TELECINE CULT | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111767.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn69U1m8UiQ1GTJHBxHG3sX681oaj_Yl5ikg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TELECINE PIPOCA | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111769.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_qDQGfgObHyFffB3FWXuPtDXvu_eugDblA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TELECINE PREMIUM | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111770.ts
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmf42H9MB-4Q6lyVfrh77qPeG4KFri1nICyg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",TELECINE TOUCH | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111771.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwV9arEAMwaX8a6tXDrVRsmBPxRgj-5Yf2w&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",SPORTV | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111761.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV2 | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwV9arEAMwaX8a6tXDrVRsmBPxRgj-5Yf2w&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",SPORTV2 | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111762.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV3 | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX9X7CtVs1mFKV32bnqzl-JVdRZtf9qPT0mw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",SPORTV3 | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111763.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmN7Lf94uwCrO0DV7xSHXpYCC-EsvmWJ9ULw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",BAND SP | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111692.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDI-amZK50OG8ZkHa-wCtXg2Ye3CPLkGg9w&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",COMBATE | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111698.ts
-#EXTINF:-1 tvg-id="" tvg-name="E$PN2 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",E$PN2 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111712.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPⓝ3 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",ESPⓝ3 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111713.ts
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmZDjqc3JHRmBWsDwrTzIBJOMu2VERXMFBA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",FISH TV | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111716.ts
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwSOG35zAjlaa8XVSppPwTCl66-C6grIzrBg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",RECORD SP | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111757.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcGQMcaWPGZcyZvRMV0y4EUieAsJnGPyNLg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",GLOBO NEWS | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111726.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwuvcFaawQ-vRqHj5UFGOLcF_h9Ns7OEvqNw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",GLOBO RJ | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111729.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvberWjGXQaW2clxzrrluE03yachykb03wcQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",GLOBO SP | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111730.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TRIBUNA SANTOS | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGV5XlaA6Ry_wZKlKLYLrnxwT9ovNCW2E9-A&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",GLOBO TRIBUNA SANTOS | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111731.ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ9d1YrpmkzUwbIqLY-fbNVjM76FpRpA791Q&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",GLOBO | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111733.ts
-#EXTINF:-1 tvg-id="" tvg-name="Religi" tvg-logo="" group-title="❎ BRASIL | PREMIUM ❎",Religi
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/138493.ts
-#EXTINF:-1 tvg-id="" tvg-name="Noticia" tvg-logo="" group-title="❎ BRASIL | PREMIUM ❎",Noticia
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/138492.ts
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCqXoszESUfTq01J-ylWqvlx_8KKUXw6WDQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",BAND NEWS | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111788.ts
-#EXTINF:-1 tvg-id="" tvg-name="MAIS NA TELA | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUgkSHzsUplUglXYkyc4g5ctQgFEj_WoVAUA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",MAIS NA TELA | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111732.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrZ29fVj4drvmzHYIT14u43hmRZvOWMGVJw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",NATGEO WILD | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111750.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhr-_qkw-1COwq8e9hlWZb5JLS-UJ7BVb8DQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",NATIONAL GEOGRAPHIC | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111751.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDxMyOTOfhmadKQ4PJjZSaUNggGfVVm4-sLA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",ANIMAL PLANET | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111689.ts
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7GatJMPXd6Rc_OXRQXzMFvOYrcqMe5tglw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",COMEDY CENTRAL | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111699.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CgM6YgWdffgELi7z4EjooXWDR57mh5iaug&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",DISCOVERY CHANNEL | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111700.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6Zkc18mX16h0ILB1QJ3r2kURqtn8RbCEXg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",DISCOVERY HOME & HEALTH | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111701.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGEoipbbvqcBTHBFibh803CNu3JSYYofPpg&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",DISCOVERY SCIENCE | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111703.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ0bnIzKpymyAvsfbfhBOq54ZcQtMRVytUog&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",DISCOVERY THEATER | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111704.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRk6gUZpFkIh0ZrJn5XI3jfyfUC776qI97SQ&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",DISCOVERY TLC | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111705.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfj23A-PM7AJvgfmHZs-i6IdkRl0stw4shYw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",DISCOVERY TURBO | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111706.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY2 | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJ8U1zE4HmML93N6w3TRYhWdAg3oSGQgfQw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HISTORY2 | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111735.ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROpjNmXn_87LUT20R4Ui66R6YpEURX6gsGhw&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",HISTORY CHANNEL | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111743.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID - INVESTIGAÇÃO | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6lFXwNGNmZBlCPCsRRM6Wrz6gU4qK_kCMA&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",DISCOVERY ID - INVESTIGAÇÃO | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111744.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV | 4k" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8sfT9pigHcszhbA_if32NgvRghQVbHTm3g&usqp=CAU" group-title="❎ BRASIL | PREMIUM ❎",REDE TV | 4k
-http://mundo2.vip:80//live/12MPremiumSep22/GswvTRBXTB/111758.ts
