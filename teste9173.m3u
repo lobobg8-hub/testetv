@@ -1,7 +1,7 @@
 #EXTM3U
 
 ############################
-# 📺 CANAIS AO VIVO (COMPLETO)
+# 📺 CANAIS AO VIVO (COMPLETO – TODOS OS SERVIDORES)
 ############################
 
 ################################################ CANAIS ABERTOS ################################################
@@ -266,22 +266,6 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6977fc665d94
 #EXTINF:-1 tvg-id="" tvg-name="Xumo TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99992307/600x200.png?type=white_cropped" group-title="CANAIS - Filmes (Pluto e Outros)",Xumo TV
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992307&ads.xumo_streamId=99992307&ads.channelId=99992307&ads.csid=lgchannels_br_xumofreemoviesbrazil_ssai&ads.channelName=xumofreemoviesbrazil_br&ads.xumo_contentName=XumoFreeMoviesBrazil&ads.xumo_contentId=5&ads.xumo_providerName=XumoFreeMoviesBrazil&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
-################################# SÉRIES 24H ######################################
-#EXTINF:-1 tvg-id="" tvg-name="Andromeda" tvg-logo="https://ribeirotv.ddns.net/imagens/series/andromeda.svg" group-title="CANAIS - series24h",Andromeda
-https://dotjw4onyd4re.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/afce5009-c490-4f48-a931-afc98d39c4c7/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bem-Vindo ao Waikiki" tvg-logo="https://ribeirotv.ddns.net/imagens/series/bemvindosawaikiki.png" group-title="CANAIS - series24h",Bem-Vindo ao Waikiki
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bem-vindoawaikiki_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-f5972f9f&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://ribeirotv.ddns.net/imagens/series/breakingbad.png" group-title="CANAIS - series24h",Breaking Bad
-https://ribeirotv.ddns.net/rj-live/rj-live/600399.ts
-#EXTINF:-1 tvg-id="" tvg-name="Carmed" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/featuredImage.jpg" group-title="CANAIS - series24h",Carmed
-http://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire" tvg-logo="https://ribeirotv.ddns.net/imagens/series/chicagofire.png" group-title="CANAIS - series24h",Chicago Fire
-https://ribeirotv.ddns.net/rj-live/rj-live/600401.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med" tvg-logo="https://ribeirotv.ddns.net/imagens/series/chicagomed.png" group-title="CANAIS - series24h",Chicago Med
-https://ribeirotv.ddns.net/rj-live/rj-live/600402.ts
-#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D." tvg-logo="https://ribeirotv.ddns.net/imagens/series/chicagopd.png" group-title="CANAIS - series24h",Chicago P.D.
-https://ribeirotv.ddns.net/winhls/chicagopd.m3u8
-
 ################################################ CANAIS VARIADOS ################################################
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/animalplanet.png" group-title="CANAIS - Variados",Animal Planet
 http://143.14.178.40:7777/Animal_Planet_HD/index.m3u8
@@ -315,6 +299,22 @@ http://streamer.sattvacabo.com.br/H2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4
 http://streamer.sattvacabo.com.br/HISTORY_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-id="multishow" tvg-name="Multishow" tvg-logo="https://ribeirotv.ddns.net/imagens/variados/multishow.png" group-title="CANAIS - Variados",Multishow
 http://143.14.178.40:7777/Multishow_HD/index.m3u8
+
+################################################ SÉRIES 24H ######################################
+#EXTINF:-1 tvg-id="" tvg-name="Andromeda" tvg-logo="https://ribeirotv.ddns.net/imagens/series/andromeda.svg" group-title="CANAIS - series24h",Andromeda
+https://dotjw4onyd4re.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-tcl/afce5009-c490-4f48-a931-afc98d39c4c7/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bem-Vindo ao Waikiki" tvg-logo="https://ribeirotv.ddns.net/imagens/series/bemvindosawaikiki.png" group-title="CANAIS - series24h",Bem-Vindo ao Waikiki
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=bem-vindoawaikiki_sll&channel_id=newid_233&mpf=7f1fabd1-39af1962-f5972f9f&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=39570ca2-77c32342-1202ea99-00b3b9ee&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Bad" tvg-logo="https://ribeirotv.ddns.net/imagens/series/breakingbad.png" group-title="CANAIS - series24h",Breaking Bad
+https://ribeirotv.ddns.net/rj-live/rj-live/600399.ts
+#EXTINF:-1 tvg-id="" tvg-name="Carmed" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/featuredImage.jpg" group-title="CANAIS - series24h",Carmed
+http://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire" tvg-logo="https://ribeirotv.ddns.net/imagens/series/chicagofire.png" group-title="CANAIS - series24h",Chicago Fire
+https://ribeirotv.ddns.net/rj-live/rj-live/600401.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Med" tvg-logo="https://ribeirotv.ddns.net/imagens/series/chicagomed.png" group-title="CANAIS - series24h",Chicago Med
+https://ribeirotv.ddns.net/rj-live/rj-live/600402.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chicago P.D." tvg-logo="https://ribeirotv.ddns.net/imagens/series/chicagopd.png" group-title="CANAIS - series24h",Chicago P.D.
+https://ribeirotv.ddns.net/winhls/chicagopd.m3u8
 
 ######################################## NOVELAS ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="Acorralada" tvg-logo="https://i.ytimg.com/vi/81GrqFV-xn8/sddefault.jpg" group-title="CANAIS - Novelas",Acorralada
