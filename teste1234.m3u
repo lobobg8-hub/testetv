@@ -873,3 +873,19 @@ https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
 https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/me622pa.png" tvg-name="WooHoo (1080p)" group-title="Brazil · iptv-org",WooHoo (1080p)
 http://143.14.178.40:7777/Woohoo_HD/index.m3u8
+
+# ===== CANAIS ADICIONADOS (CARTON NETWORK E CARTOONITO) =====
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network" tvg-logo="https://i.imgur.com/dSWSffw.png" group-title="Canais | Infantil",Cartoon Network
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/37121.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://i.imgur.com/dSWSffw.png" group-title="Canais | Infantil",Cartoon Network FHD
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/41471.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Infantil",Cartoon Network H265
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/50534.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/dSWSffw.png" group-title="Canais | Infantil",Cartoon Network HD
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/36927.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/6eZoxoi.png" group-title="Canais | Infantil",Cartoonito
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/37123.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="https://i.imgur.com/6eZoxoi.png" group-title="Canais | Infantil",Cartoonito FHD
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/38390.ts
+#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Infantil",Cartoonito H265
+http://play.pollarplay.com/live/Nilson333/xa2jecuvoi/62800.ts
